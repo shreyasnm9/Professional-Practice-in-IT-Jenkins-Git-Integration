@@ -57,6 +57,4 @@ pipeline {
         }
     }
 }
-//Hello there
-//Hello World
-//This is the Jenkins Email connection Demonstration
+//Experiment to prove the workikng of jenkins and github connection
