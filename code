@@ -57,4 +57,6 @@ pipeline {
         }
     }
 }
-//Hello There
+//Hello there
+//Hello World
+//This is the Jenkins Email connection Demonstration
